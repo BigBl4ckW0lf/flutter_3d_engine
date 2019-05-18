@@ -1,2 +1,2 @@
 # flutter_3d_engine
-Github Client written in flutter
+[WIP] display 3D Objects with pure Dart code
